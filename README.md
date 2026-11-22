@@ -68,8 +68,8 @@ first-portfolio/
 - The email, LinkedIn and GitHub links are not there yet. They say "Coming soon" until I add them (search for `TODO(ferna)` in `index.html`).
 - The CV PDF still shows `[e-mail] [WhatsApp] [LinkedIn] [GitHub]` as placeholders. I need to fill them in the Word file and export it again.
 - Project IV has no repository link yet (there is a `TODO(ferna)` comment). Aleph, El Niño and ODIN have no links because they are not public.
-- The links to the other projects are relative (`../tribute-rommel/index.html`). They work on my computer and in the `Projetos-Web` repository, but if this folder is published alone they will break. Before publishing it alone, they have to point to the public URL of each project.
-- `projects.html` was not updated in this round. It still has older text, some empty credential links and a link to `../Project01/README.md` that does not exist inside this folder.
+- The site is live at https://fernandocortessuarez-sys.github.io/first-portfolio/. The link to the Rommel tribute is relative (`../tribute-rommel/index.html`) and works because both repositories are on the same GitHub Pages domain. The other projects are not published yet, so their links say "Not published yet". Each one has a `TODO(ferna)` comment with the original link to put back when that site is on GitHub Pages under the same folder name.
+- Apart from those links, `projects.html` was not updated in this round. It still has older text and some empty credential links.
 - Google Fonts loads from Google's servers, so a visitor's browser connects to Google.
 - I tested it in Edge and in the browser inside the Claude app at 375, 768 and 1440 px wide. I did not test it with a screen reader or on a real phone.
 - All companies and brands in my projects are fictional. FranceCop S.A.S. is a name I made up and use in my practice projects; it is not a real company.
